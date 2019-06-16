@@ -25,3 +25,7 @@ Ismar Tričić, 2019.
 ## Screenshots
 ![Screenshot_1](https://raw.githubusercontent.com/tricic/Cpp-Qt-Mini-Game/master/screenshots/Screenshot_1.png)
 ![Screenshot_2](https://raw.githubusercontent.com/tricic/Cpp-Qt-Mini-Game/master/screenshots/Screenshot_2.png)
+
+## License
+
+[The MIT License](https://github.com/tricic/Cpp-Qt-Mini-Game/blob/master/LICENSE)
