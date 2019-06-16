@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>resources/background.jpg</file>
+        <file>resources/missile.png</file>
+        <file>resources/explosion.png</file>
+        <file>resources/asteroid.png</file>
+        <file>resources/spaceship.png</file>
+    </qresource>
+    <qresource prefix="/audio">
+        <file>resources/shooting_sound.wav</file>
+        <file>resources/background_music.mp3</file>
+        <file>resources/explosion_sound.wav</file>
+        <file>resources/rocket_hit_sound.wav</file>
+        <file>resources/game_over_sound.wav</file>
+    </qresource>
+</RCC>
